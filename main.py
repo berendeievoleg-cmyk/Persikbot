@@ -17,7 +17,7 @@ def load_data():
         "phrases": ["всем привет", "жрать"],
         "photos": [], "stickers": [], "triggers": {},
         "blacklist": ["кринж", "плохой"],
-        "reactions": ["🔥", "👍", "🐾", "😎", "😱"],
+        "reactions": ["🔥", "👍", "🌚", "💀", "🍑"],
         "chance": 0.3, "typing_speed": 1, 
         "mute_mode": False, "auto_reaction": True
     }
