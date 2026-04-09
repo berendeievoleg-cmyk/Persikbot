@@ -5,7 +5,7 @@ import random
 import time
 from telebot import types
 
-TOKEN = '8484621573:AAGjGx6j5jYGLUlotDTB3ay3sAn3NsAhAKI'
+TOKEN = '8232952137:AAE9dGtnUygKXWqJhdgqmETXArFzeql9pxI'
 bot = telebot.TeleBot(TOKEN)
 DATA_FILE = 'persik_ultra_data.json'
 
