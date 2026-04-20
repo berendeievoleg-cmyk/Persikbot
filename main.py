@@ -14,7 +14,7 @@ def load_data():
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
             return json.load(f)
     return {
-        "phrases": ["всем привет", "жрать"],
+        "phrases": ["всем привет", "я могу иногда башкой ударится"],
         "photos": [], "stickers": [], "triggers": {},
         "blacklist": ["кринж", "плохой"],
         "reactions": ["🔥", "😭", "🌚", "💀", "🍑"],
